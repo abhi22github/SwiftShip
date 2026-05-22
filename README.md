@@ -32,5 +32,3 @@ This project demonstrates strong **SQL skills**, including:
 
 
 
-
-
